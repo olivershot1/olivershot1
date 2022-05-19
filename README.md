@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**olivershot1/olivershot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
  🔭 I’m currently working on fivem main scripting
  🌱 I’m currently learning JS and
  👯 I’m looking to collaborate on nothing as of yet 
