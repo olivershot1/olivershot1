@@ -1,25 +1,23 @@
 ### Hi there 👋
-![unknown123](https://user-images.githubusercontent.com/73172475/169407142-9531aef9-e94c-48a6-a059-c1ea517a4bfd.png)
 
- 🔭 I’m currently working on fivem main scripting
+ 🔭 I’m currently working: on A LOT OF STUFF
  
  
- 🌱 I’m currently learning JS 
+ 🌱 I’m currently learning: JS,CSS,C#
  
  
- 👯 I’m looking to collaborate on nothing as of yet 
+ 👯 I’m looking to collaborate: who even does that BRUH
  
  
- 🤔 I’m looking for help with nothing as of yet 
+ 🤔 I’m looking for help with: NOPE
  
  
- 💬 Ask me about anything
+ 💬 Ask me about: anything
  
  
- 📫 How to reach me: you got here from my discord profile
+ 📫 How to reach me: you got here from my discord profile KEKW
  
  
- ⚡ Fun fact: im every boring
+ ⚡ Fun fact: going to be come software engineer one day 
  
-ill update this when i can be bothered to
 -->
