@@ -6,12 +6,6 @@
  🌱 I’m currently learning: JS,CSS,C#
  
  
- 👯 I’m looking to collaborate: who even does that BRUH
- 
- 
- 🤔 I’m looking for help with: NOPE
- 
- 
  💬 Ask me about: anything
  
  
@@ -20,7 +14,6 @@
  
  ⚡ Fun fact: going to be come software engineer one day 
  
--->
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
