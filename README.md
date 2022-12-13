@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://github.com/olivershot1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivershot1&count_private=true&theme=onedark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivershot1&count_private=true&theme=midnight-purple&layout=compact" />
 </a>
 <br />
 <br />
@@ -24,5 +24,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="olivershot1 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=olivershot1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+<a href="https://github.com/olivershot1/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivershot1&count_private=true&theme=midnight-purple" />
+</a>
