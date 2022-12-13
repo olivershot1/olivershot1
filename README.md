@@ -14,6 +14,10 @@
 # Editors
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=for-the-badge&labelColor=000000&logo=visual-studio-code&logoColor=white&color=9645f4)
 </a>
+
+<a href="https://github.com/olivershot1/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivershot1&count_private=true&theme=midnight-purple&layout=compact" />
+</a>
 <br />
 <br />
 
