@@ -10,6 +10,10 @@
 ![](https://img.shields.io/badge/Language-Css-informational?style=for-the-badge&labelColor=000000&logo=CSS3&logoColor=white&color=9645f4)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&labelColor=000000&logo=JavaScript&logoColor=white&color=9645f4)
 ![](https://img.shields.io/badge/Language-Sql-informational?style=for-the-badge&labelColor=000000&logo=SQL&logoColor=white&color=9645f4)
+[![olivershot1 stats](https://badge42.vercel.app/api/v2/cl2yp2w6s003009mhb9kl2emp/stats?cursusId=21&coalitionId=58)](https://github.com/JaeSeoKim/badge42)
+
+
+![Profile views](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&labelColor=000000&label=Profile_Views&logo=GitHub&logoColor=white&color=9645f4&style=for-the-badge)
 
 # Editors
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=for-the-badge&labelColor=000000&logo=visual-studio-code&logoColor=white&color=9645f4)
