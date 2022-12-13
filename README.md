@@ -16,7 +16,7 @@
 </a>
 
 <a href="https://github.com/olivershot1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivershot1&count_private=true&theme=midnight-purple&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivershot1&count_private=true&theme=onedark&layout=compact" />
 </a>
 <br />
 <br />
