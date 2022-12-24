@@ -11,8 +11,6 @@
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&labelColor=000000&logo=JavaScript&logoColor=white&color=9645f4)
 ![](https://img.shields.io/badge/Language-Sql-informational?style=for-the-badge&labelColor=000000&logo=SQL&logoColor=white&color=9645f4)
 
-**[![olivershot1wakatimestats](https://github-readme-stats.vercel.app/waka?username=olivershot1&theme=midnight-purple)](https://github.com/olivershot1/github-readme-stats)**
-
 # Editors
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=for-the-badge&labelColor=000000&logo=visual-studio-code&logoColor=white&color=9645f4)
 </a>
