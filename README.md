@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=82117F&width=435&lines=Hey+welcome+to+my+profile+;Im+praticing+to+be+a+software+engineer++" alt="Typing SVG" /></a>]
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=82117F&width=435&lines=Hey+welcome+to+my+profile+;Im+praticing+to+be+a+software+engineer++" alt="Typing SVG" /></a>
 
 # Experience
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&labelColor=000000&logo=Windows&logoColor=white&color=9645f4)
