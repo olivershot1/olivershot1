@@ -34,7 +34,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivershot1&count_private=true&theme=midnight-purple" />
 </a>
   
-  <div align="center">
-  <img src="https://github.com/olivershot1/olivershot1/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
