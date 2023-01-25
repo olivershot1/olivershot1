@@ -3,11 +3,11 @@
 # Experience
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&labelColor=000000&logo=Windows&logoColor=white&color=9645f4)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&labelColor=000000&logo=Linux&logoColor=white&color=9645f4)
+![](https://img.shields.io/badge/Language-Git-informational?style=for-the-badge&labelColor=000000&logo=Git&logoColor=white&color=9645f4)
 
 ![](https://img.shields.io/badge/Language-lua-informational?style=for-the-badge&labelColor=000000&logo=LUA&logoColor=white&color=9645f4)
 ![](https://img.shields.io/badge/Language-C++-informational?style=for-the-badge&labelColor=000000&logo=C++&logoColor=white&color=9645f4)
 ![](https://img.shields.io/badge/Language-Typescript-informational?style=for-the-badge&labelColor=000000&logo=Typescript&logoColor=white&color=9645f4)
-![](https://img.shields.io/badge/Language-Git-informational?style=for-the-badge&labelColor=000000&logo=Git&logoColor=white&color=9645f4)
 
 ![](https://img.shields.io/badge/Language-Html-informational?style=for-the-badge&labelColor=000000&logo=HTML5&logoColor=white&color=9645f4)
 ![](https://img.shields.io/badge/Language-Css-informational?style=for-the-badge&labelColor=000000&logo=CSS3&logoColor=white&color=9645f4)
