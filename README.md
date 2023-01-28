@@ -22,7 +22,8 @@
 </a>
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/1031664203792138300?theme=dark)](https://discord.com/users/516646179724066816)
+[![Discord Presence](https://lanyard.cnrad.dev/api/516646179724066816?theme=dark)](https://discord.com/users/516646179724066816)
+
 <a href="https://github.com/olivershot1/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivershot1&count_private=true&theme=midnight-purple&layout=compact" />
 </a>
