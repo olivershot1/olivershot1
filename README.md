@@ -1,9 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+profile+;Im+praticing+to+be+a+software+engineer" alt="Typing SVG" /></a>
 
-# OS
-![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&labelColor=000000&logo=Windows&logoColor=white&color=9645f4)
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&labelColor=000000&logo=Linux&logoColor=white&color=9645f4)
-
 # Experience
 ![](https://img.shields.io/badge/Language-Git-informational?style=for-the-badge&labelColor=000000&logo=Git&logoColor=white&color=9645f4)
 ![](https://img.shields.io/badge/Language-lua-informational?style=for-the-badge&labelColor=000000&logo=LUA&logoColor=white&color=9645f4)
