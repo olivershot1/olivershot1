@@ -17,6 +17,8 @@
 </a>
 ![](https://img.shields.io/badge/jetbrains-informational?style=for-the-badge&labelColor=000000&logo=jetbrains&logoColor=white&color=9645f4)
 </a>
+![](https://img.shields.io/badge/IDE-VSstudio-informational?style=for-the-badge&labelColor=000000&logo=visual-studio-code&logoColor=white&color=9645f4)
+</a>
 
 # OS
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&labelColor=000000&logo=Windows&logoColor=white&color=9645f4)
