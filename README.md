@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Language-Css-informational?style=for-the-badge&labelColor=000000&logo=CSS3&logoColor=white&color=9645f4)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&labelColor=000000&logo=JavaScript&logoColor=white&color=9645f4)
 ![](https://img.shields.io/badge/Language-react-informational?style=for-the-badge&labelColor=000000&logo=react&logoColor=white&color=9645f4)
-![](https://img.shields.io/badge/Language-Sql-informational?style=for-the-badge&labelColor=000000&logo=SQL&logoColor=white&color=9645f4)
+![](https://img.shields.io/badge/Language-sql-informational?style=for-the-badge&labelColor=000000&logo=SQL&logoColor=white&color=9645f4)
 
 # Editors
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=for-the-badge&labelColor=000000&logo=visual-studio-code&logoColor=white&color=9645f4)
