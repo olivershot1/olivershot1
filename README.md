@@ -1,3 +1,10 @@
+<h1>
+  Hello, my name is Olivershot1!
+</h1>
+
+
+
+```typescript
 class AboutMe extends React.Component<{}, { name: string, gender: string, hobbies: string[], languages: string[] }> {
     state = {
         name: "Olivershot1",
@@ -21,6 +28,8 @@ class AboutMe extends React.Component<{}, { name: string, gender: string, hobbie
         )
     }
 }
+```
+
 # Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/516646179724066816)](https://discord.com/users/516646179724066816theme=:dark) 
 
