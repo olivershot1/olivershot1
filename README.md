@@ -1,29 +1,26 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&width=435&lines=Welcome+to+my+profile+" alt="Typing SVG" /></a>
+class AboutMe extends React.Component<{}, { name: string, gender: string, hobbies: string[], languages: string[] }> {
+    state = {
+        name: "Olivershot1",
+        age: 21,
+        gender: "Male",
+        hobbies: ["Programming", "Gaming", "Videography", "Long Walks In The Dark"],
+        languages: ["English", "German"],
+        from: "England"
+    };
 
-# Experience
-![](https://img.shields.io/badge/Language-Git-informational?style=for-the-badge&labelColor=000000&logo=Git&logoColor=white&color=9645f4)
-![](https://img.shields.io/badge/Language-lua-informational?style=for-the-badge&labelColor=000000&logo=LUA&logoColor=white&color=9645f4)
-![](https://img.shields.io/badge/Language-C++-informational?style=for-the-badge&labelColor=000000&logo=C++&logoColor=white&color=9645f4)
-![](https://img.shields.io/badge/Language-Typescript-informational?style=for-the-badge&labelColor=000000&logo=Typescript&logoColor=white&color=9645f4)
+    render() {
+        return (
+            <div>
+                <h1>About me</h1>
+                <p>
+                    My name is {this.state.name} and I am a {this.state.age} years old {this.state.gender.toLowerCase()} coder from {this.state.from}.
 
-![](https://img.shields.io/badge/Language-Html-informational?style=for-the-badge&labelColor=000000&logo=HTML5&logoColor=white&color=9645f4)
-![](https://img.shields.io/badge/Language-Css-informational?style=for-the-badge&labelColor=000000&logo=CSS3&logoColor=white&color=9645f4)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=for-the-badge&labelColor=000000&logo=JavaScript&logoColor=white&color=9645f4)
-![](https://img.shields.io/badge/Language-react-informational?style=for-the-badge&labelColor=000000&logo=react&logoColor=white&color=9645f4)
-![](https://img.shields.io/badge/Language-Sql-informational?style=for-the-badge&labelColor=000000&logo=SQL&logoColor=white&color=9645f4)
-
-# Editors
-![](https://img.shields.io/badge/IDE-VSCode-informational?style=for-the-badge&labelColor=000000&logo=visual-studio-code&logoColor=white&color=9645f4)
-</a>
-![](https://img.shields.io/badge/jetbrains-informational?style=for-the-badge&labelColor=000000&logo=jetbrains&logoColor=white&color=9645f4)
-</a>
-![](https://img.shields.io/badge/IDE-VSstudio-informational?style=for-the-badge&labelColor=000000&logo=visual-studio-code&logoColor=white&color=9645f4)
-</a>
-
-# OS
-![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&labelColor=000000&logo=Windows&logoColor=white&color=9645f4)
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&labelColor=000000&logo=Linux&logoColor=white&color=9645f4)
-
+                    Some of my hobbies include {this.state.hobbies.join(", ")}, and I speak {this.state.languages.join(", ")}.
+                </p>
+            </div>
+        )
+    }
+}
 # Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/516646179724066816)](https://discord.com/users/516646179724066816theme=:dark) 
 
