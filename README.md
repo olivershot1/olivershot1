@@ -10,7 +10,7 @@ class AboutMe extends React.Component<{}, { name: string, gender: string, hobbie
         name: "Olivershot1",
         age: 21,
         gender: "Male",
-        hobbies: ["Programming", "Gaming", "Videography", "Long Walks In The Dark"],
+        hobbies: ["Programming Dayz/Fivem", "Gaming", "Videography",],
         languages: ["English", "German"],
         from: "England"
     };
