@@ -29,7 +29,7 @@ class AboutMe extends React.Component<{}, { name: string, gender: string, hobbie
         gender: "Male",
         hobbies: ["Programming Dayz/Fivem", "Gaming",],
         languages: ["English", "German"],
-        from: "England"
+        from: "United Kingdom"
     };
 
     render() {
