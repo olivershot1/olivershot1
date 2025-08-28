@@ -2,6 +2,23 @@
   Hello, my name is Olivershot1!
 </h1>
 
+###### Languages/frameworks that I am experienced in or dabbled in:
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)<br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)<br>
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
 
 
 ```typescript
