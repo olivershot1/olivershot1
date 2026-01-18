@@ -4,7 +4,7 @@
 
 ###### Languages/frameworks that I am experienced in or dabbled in:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-ccs3-05122A?style=flat&logo=ccs3)
+![CSS](https://img.shields.io/badge/CSS-1572B6A?style=flat&logo=CSS3) 
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
