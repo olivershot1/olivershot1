@@ -19,7 +19,7 @@
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)   
 
 
 
