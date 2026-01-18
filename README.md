@@ -18,7 +18,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)<br>
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)
 
 
