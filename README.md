@@ -18,6 +18,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)<br>
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)
+
 
 
 
@@ -27,7 +30,7 @@ class AboutMe extends React.Component<{}, { name: string, gender: string, hobbie
         name: "Olivershot1",
         age: 21,
         gender: "Male",
-        hobbies: ["Programming Dayz/Fivem", "Gaming",],
+        hobbies: ["Programming", "Gaming",],
         languages: ["English", "German"],
         from: "United Kingdom"
     };
