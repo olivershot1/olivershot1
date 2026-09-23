@@ -54,6 +54,6 @@ class AboutMe extends React.Component<{}, { name: string, gender: string, hobbie
 [![Discord Presence](https://lanyard.cnrad.dev/api/516646179724066816)](https://discord.com/users/516646179724066816theme=:dark) 
 
 # Stats
-[[![olivershot1's GitHub stats](https://github-stats-extended.vercel.app/api?username=olivershot1)](https://github.com/stats-organization/github-stats-extended)](https://github-stats-extended.vercel.app/api?username=olivershot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=olivershot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=olivershot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=olivershot1&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=olivershot1&langs_count=4&theme=transparent)
