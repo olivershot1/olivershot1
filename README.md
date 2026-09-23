@@ -21,9 +21,6 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 
-
-
-
 ```typescript
 class AboutMe extends React.Component<{}, { name: string, gender: string, hobbies: string[], languages: string[] }> {
     state = {
@@ -49,14 +46,13 @@ class AboutMe extends React.Component<{}, { name: string, gender: string, hobbie
     }
 }
 ```
+# Stats
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=olivershot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=olivershot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=olivershot1&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=olivershot1&langs_count=4&theme=transparent)
 # Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/516646179724066816)](https://discord.com/users/516646179724066816theme=:dark) 
 
 # Spotify
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ohx8pwi32ap1d8txxf1jp9mag&duration=1&username=off&footer=wave)
 
-# Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=olivershot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=olivershot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=olivershot1&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=olivershot1&langs_count=4&theme=transparent)
