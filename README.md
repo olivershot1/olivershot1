@@ -55,5 +55,5 @@ class AboutMe extends React.Component<{}, { name: string, gender: string, hobbie
 
 # Stats
 
-[![olivershot1's GitHub stats](https://github-stats-extended.vercel.app/api?username=olivershot1)](https://github.com/stats-organization/github-stats-extended)
+[[![olivershot1's GitHub stats](https://github-stats-extended.vercel.app/api?username=olivershot1)](https://github.com/stats-organization/github-stats-extended)](https://github-stats-extended.vercel.app/api?username=olivershot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
 
