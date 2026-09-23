@@ -53,6 +53,7 @@ class AboutMe extends React.Component<{}, { name: string, gender: string, hobbie
 # Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/516646179724066816)](https://discord.com/users/516646179724066816theme=:dark) 
 
-
+# Stats
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivershot1&layout=compact&&langs_count=8"/>
 <a href = "https://github.com/olivershot1?tab=repositories"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
 
