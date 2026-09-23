@@ -50,6 +50,8 @@ class AboutMe extends React.Component<{}, { name: string, gender: string, hobbie
 }
 ```
 
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=olivershot1
+
 # Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/516646179724066816)](https://discord.com/users/516646179724066816theme=:dark) 
 
