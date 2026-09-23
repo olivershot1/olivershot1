@@ -50,10 +50,11 @@ class AboutMe extends React.Component<{}, { name: string, gender: string, hobbie
 }
 ```
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=olivershot1
-
 # Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/516646179724066816)](https://discord.com/users/516646179724066816theme=:dark) 
+
+# Spotify
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=ohx8pwi32ap1d8txxf1jp9mag&duration=1&username=off&footer=wave)
 
 # Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=olivershot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=olivershot1&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
