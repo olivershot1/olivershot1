@@ -25,7 +25,7 @@
 class AboutMe extends React.Component<{}, { name: string, gender: string, hobbies: string[], languages: string[] }> {
     state = {
         name: "Olivershot1",
-        age: 21,
+        age: 26,
         gender: "Male",
         hobbies: ["Programming", "Gaming",],
         languages: ["English", "German"],
